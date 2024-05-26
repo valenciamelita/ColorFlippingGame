@@ -1,0 +1,25 @@
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\bin\Debug\week 7 class assignment.exe.config
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\bin\Debug\week 7 class assignment.exe
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\bin\Debug\week 7 class assignment.pdb
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week_7_class_assignment.Form1.resources
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week_7_class_assignment.Form2.resources
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week_7_class_assignment.Properties.Resources.resources
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.GenerateResource.cache
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.exe
+C:\Users\student\source\repos\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\bin\Debug\week 7 class assignment.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\bin\Debug\week 7 class assignment.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\bin\Debug\week 7 class assignment.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week_7_class_assignment.Form1.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week_7_class_assignment.Form2.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week_7_class_assignment.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\bin\Debug\Guna.UI2.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 class assignment\week 7 class assignment\obj\Debug\week 7 class assignment.csproj.CopyComplete

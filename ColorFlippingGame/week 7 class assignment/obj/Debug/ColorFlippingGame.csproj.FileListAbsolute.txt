@@ -1,0 +1,13 @@
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\bin\Debug\week 7 class assignment.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\bin\Debug\week 7 class assignment.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\bin\Debug\week 7 class assignment.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\bin\Debug\Guna.UI2.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\ColorFlippingGame.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\week_7_class_assignment.Form1.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\week_7_class_assignment.Form2.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\week_7_class_assignment.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\ColorFlippingGame.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\ColorFlippingGame.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\ColorFlippingGame.csproj.CopyComplete
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\week 7 class assignment.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\ColorFlippingGame\week 7 class assignment\obj\Debug\week 7 class assignment.pdb
